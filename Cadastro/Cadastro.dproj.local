@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/07/15 11:25:08.000.183,=D:\Users\prg4\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2020/07/30 11:10:40.000.440,=D:\Users\prg4\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2020/11/06 15:10:50.000.942,=D:\Users\prg4\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2020/12/17 11:01:46.032,=D:\Users\prg4\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2020/12/17 15:56:41.310,C:\AssinaXML\Cadastro\UFormCadastro.dfm=D:\Users\prg4\Documents\Embarcadero\Studio\Projects\Unit5.dfm</Transaction>
+    <Transaction>2020/12/17 15:56:41.310,C:\AssinaXML\Cadastro\UFormCadastro.pas=D:\Users\prg4\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2020/12/17 15:56:56.533,C:\AssinaXML\Cadastro\Cadastro.dproj=D:\Users\prg4\Documents\Embarcadero\Studio\Projects\Project3.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
